@@ -1,14 +1,12 @@
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 # Setup
 title:               Data Visualization Course
 tagline:             ''
 description:         ''
-url:                 ''
-baseurl:             ''
+url:                 'http://erikwiffin.github.io/'
+baseurl:             '/data-visualization-course'
 paginate:            5
 
 # About/contact
@@ -18,3 +16,4 @@ author:
 
 # Custom vars
 version:             1.0.0
+gems:                [jekyll-paginate]
