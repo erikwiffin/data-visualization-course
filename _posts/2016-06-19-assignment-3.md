@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Assignment: Making Data Management Decisions"
